@@ -1,0 +1,10 @@
+﻿  teacher.c
+  main.c
+  list.c
+  database_unit_test.c
+  database.c
+c:\users\anatoli\documents\visual studio 2017\projects\assignment3_proper\assignment3_proper\database.c(178): warning C4033: 'get_student' must return a value
+c:\users\anatoli\documents\visual studio 2017\projects\assignment3_proper\assignment3_proper\database.c(189): warning C4033: 'get_student' must return a value
+  Generating Code...
+c:\users\anatoli\documents\visual studio 2017\projects\assignment3_proper\assignment3_proper\database.c(190): warning C4715: 'get_student': not all control paths return a value
+  Assignment3_Proper.vcxproj -> C:\Users\Anatoli\Documents\Visual Studio 2017\Projects\Assignment3_Proper\Debug\Assignment3_Proper.exe
